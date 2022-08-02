@@ -11,6 +11,11 @@
       },
 
 {
+         "name": "DTAC-NoFree03",
+         "url": "https://raw.githubusercontent.com/zawmg9239/testfile/main/Dtac-NoFree03.ovpn"
+      },
+
+{
          "name": "TRUE-NoFree01",
          "url": "https://raw.githubusercontent.com/zawmg9239/testfile/main/True-NoFree01.ovpn"
       },
@@ -18,11 +23,16 @@
 {
          "name": "TRUE-NoFree02",
          "url": "https://raw.githubusercontent.com/zawmg9239/testfile/main/True-NoFree02.ovpn"
+      },
+
+{
+         "name": "TRUE-NoFree03",
+         "url": "https://raw.githubusercontent.com/zawmg9239/testfile/main/True-NoFree03.ovpn"
       }
 
 
    ],
-"message":"နေ့ရက် 30/7/22မှ6/8/22ထိ \nဖိုင်ဗားရှင်း 11\nZawYeLwin VPN \nဘာတွေ ထပ်ထည့်ထားသလဲ\nDtacNoProTrueNoPro ",
+"message":"နေ့ရက် 02/08/22မှ09/08/22ထိ \nဖိုင်ဗားရှင်း 12\nZawYeLwin VPN \nဘာတွေ ထပ်ထည့်ထားသလဲ\nDtacNoProTrueNoPro ",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီ" ,
-   "version": 11
+   "version": 12
 }
